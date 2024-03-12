@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Mirisciotta</h1>
 <h3 align="center">A passionate full Stack Developer from California</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelmira" alt="michaelmira" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/michaelmira11" target="blank"><img src="https://img.shields.io/twitter/follow/michaelmira11?logo=twitter&style=for-the-badge" alt="michaelmira11" /></a> </p>
 
 - 🔭 I’m currently working on **Star Wars API**
