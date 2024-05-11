@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/michaelmira11" target="blank"><img src="https://img.shields.io/twitter/follow/michaelmira11?logo=twitter&style=for-the-badge" alt="michaelmira11" /></a> </p>
 
-- 🔭 I’m currently working on **Star Wars API**
+- 🔭 I’m currently working on **Badlands Bordello Website Version 2**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **AWS Amazon Web Services**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Michaelmira](https://github.com/Michaelmira)
 
