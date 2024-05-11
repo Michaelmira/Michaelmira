@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Html, React, Javascript, and Python**
 
-- 📫 How to reach me **michaelmirisciotta@gmail.com**
+- 📫 How to reach me **michaelmirisciotta@gmail.com and or message me on linked in. **
 
 - ⚡ Fun fact **I like Kiteboarding.**
 
