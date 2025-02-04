@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS Amazon Web Services, Firebase**
 
-- 👨‍💻 All of my projects are available at [www.mirainfinity.com](www.mirainfinity.com)
+- 👨‍💻 All of my projects are available on my portfolio website [www.mirainfinity.com](www.mirainfinity.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/michaelmirisciotta/](https://www.linkedin.com/in/michaelmirisciotta/)
 
