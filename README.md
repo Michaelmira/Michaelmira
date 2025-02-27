@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/michaelmira11" target="blank"><img src="https://img.shields.io/twitter/follow/michaelmira11?logo=twitter&style=for-the-badge" alt="michaelmira11" /></a> </p>
 
-- 🔭 DevMentor – Co-Founder & Lead Developer**
+- ⭐️ DevMentor – Co-Founder & Lead Developer**
 
-- 🌱 My Major Tech Stack **HTML, CSS, javascript, Bootstrap, React.js, node.js, python, flask, PostgreSQL **
-- 
-- 🌱 My Minor Tech Stack **HTML, CSS, javascript, Tailwind, Next.js, Prisma , PostgreSQL **
+- 💎 My Primary Tech Stack: **HTML, CSS, javascript, Bootstrap, React.js, node.js, python, flask, PostgreSQL **
+  
+- 🌱 My Supplementary Tech Stack: **HTML, CSS, javascript, Tailwind CSS, Next.js, Prisma , PostgreSQL **
+  
+- 🌱 My Favorite DevOps & Tools: **AWS (EC2, S3, RDS), Firebase (Firestore, Hosting, Auth), Google Cloud (OAuth, API Keys), Vercel, Render, Git, GitHub, CI/CD (GitHub Actions, Railway) **
 
 - 👨‍💻 All of my projects are available on my portfolio website [www.mirainfinity.com](www.mirainfinity.com)
 
