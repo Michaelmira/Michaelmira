@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/michaelmira11" target="blank"><img src="https://img.shields.io/twitter/follow/michaelmira11?logo=twitter&style=for-the-badge" alt="michaelmira11" /></a> </p>
 
-- 🔭 I’m currently working on **DevMentor peer to peer Mentoring Platform**
+- 🔭 DevMentor – Co-Founder & Lead Developer**
 
 - 🌱 I’m currently learning **AWS Amazon Web Services, Firebase**
 
