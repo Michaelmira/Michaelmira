@@ -5,17 +5,19 @@
 
 - 🔭 DevMentor – Co-Founder & Lead Developer**
 
-- 🌱 I’m currently learning **AWS Amazon Web Services, Firebase**
+- 🌱 My Major Tech Stack **HTML, CSS, javascript, Bootstrap, React.js, node.js, python, flask, PostgreSQL **
+- 
+- 🌱 My Minor Tech Stack **HTML, CSS, javascript, Tailwind, Next.js, Prisma , PostgreSQL **
 
 - 👨‍💻 All of my projects are available on my portfolio website [www.mirainfinity.com](www.mirainfinity.com)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/michaelmirisciotta/](https://www.linkedin.com/in/michaelmirisciotta/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Html, React, Javascript, and Python**
+- 💬 Ask me about **React, Next.js, Firebase, Google Cloud Services, Amazon Web Services, Javascript, and Python**
 
 - 📫 How to reach me **michaelmirisciotta@gmail.com and or message me on linked in. **
 
-- ⚡ Fun fact **I like Kiteboarding.**
+- ⚡ Fun fact **I am a Salsa Dance Instructor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
