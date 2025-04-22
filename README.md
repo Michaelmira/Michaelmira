@@ -11,7 +11,8 @@
   
 - 🌱 My Favorite DevOps & Tools: **AWS (EC2, S3, RDS), Firebase (Firestore, Hosting, Auth), Google Cloud (OAuth, API Keys), Vercel, Render, Git, GitHub, CI/CD (GitHub Actions, Railway) **
 
-- 👨‍💻 All of my projects are available on my portfolio website [www.mirainfinity.com](www.mirainfinity.com)
+- 👨‍💻 All of my projects are available on my portfolio website [www.mirainfinity.com](https://www.mirainfinity.com)
+
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/michaelmirisciotta/](https://www.linkedin.com/in/michaelmirisciotta/)
 
