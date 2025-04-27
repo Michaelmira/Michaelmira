@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Mirisciotta</h1>
-<h3 align="center">A passionate full Stack Developer from California</h3>
+<h3 align="center">A Passionate Software Engineer from California</h3>
 
 <p align="left"> <a href="https://twitter.com/michaelmira11" target="blank"><img src="https://img.shields.io/twitter/follow/michaelmira11?logo=twitter&style=for-the-badge" alt="michaelmira11" /></a> </p>
 
